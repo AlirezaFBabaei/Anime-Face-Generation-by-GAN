@@ -1,1 +1,5 @@
-# Anime-Face-Generation-by-GAN
+# Anime Face Generation by GAN
+
+This project focuses on generating anime face images using a vanilla Generative Adversarial Network (GAN) architecture trained on the [Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset). Implemented using TensorFlow, the model learns to generate new and unique anime face images from random noise vectors, capturing the essence of anime artistry, including distinct facial features, colorful hairstyles, expressive eyes, and other characteristic elements, ultimately producing images that closely resemble those found in anime and manga.
+
+The project aims to provide a fun and creative exploration of generative modeling techniques within the context of anime art. By training a GAN on the Anime Face Dataset using TensorFlow, users can experiment with generating their own anime characters, explore the latent space of the model to discover new variations, and gain insights into the underlying patterns and features that define anime aesthetics. Additionally, the project serves as a platform for researchers and enthusiasts to delve into the intersection of artificial intelligence and anime culture, fostering collaboration, innovation, and appreciation for the art form.
